@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Test Post
+title: MTA Turnstile Data Analysis for WYWT(Women Yes Women Tech)
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
+Objective: To identify NY subway stations where the volunteers for WYWT can outreach and promote the summer gala to promote women involvement in tech industry.
 
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).
+Tools used: Python, Pandas, Seaborn, MTA turnstile data.
